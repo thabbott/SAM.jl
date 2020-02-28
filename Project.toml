@@ -1,0 +1,4 @@
+name = "SAM"
+uuid = "c758d650-5a3b-11ea-3a65-1becc1a2f59b"
+authors = ["Tristan Abbott <thabbott@mit.edu>"]
+version = "0.1.0"
