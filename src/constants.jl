@@ -9,7 +9,8 @@ function list_constants()
         Lf = 0.3336e6,
         Ls = 2.5104e6 + 0.3336e6,
         R = 287.0,
-        Rv = 461.0
+        Rv = 461.0,
+        p0 = 1e5,
     )
 end
 
