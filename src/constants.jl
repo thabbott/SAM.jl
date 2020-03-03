@@ -22,5 +22,6 @@ function list_units()
         day = 86400.0,
         hPa = 100.0,
         km = 1000.0,
+        g = 1e-3,
     )
 end
